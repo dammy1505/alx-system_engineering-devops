@@ -1,2 +1,2 @@
 #!/bin/bash
-chown ux+gx+or hello
+chown u+x,g+x,o+r hello
